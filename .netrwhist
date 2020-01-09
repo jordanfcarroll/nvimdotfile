@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =5
+let g:netrw_dirhist_5='/Users/jordan/nicosys/yamato-cfwd-server'
+let g:netrw_dirhist_4='/Users/jordan/nicosys/yamato-cfwd-server/resources/js/template/components'
+let g:netrw_dirhist_3='/Users/jordan/nicosys/yamato-cfwd-server/resources/js/template/delivery_plans'
+let g:netrw_dirhist_2='/Users/jordan/nicosys/yamato-cfwd-server/resources/js/template/components'
+let g:netrw_dirhist_1='/Users/jordan/nicosys/yamato-cfwd-server/resources/js/template/delivery_plans'
+let g:netrw_dirhist_0='/Users/jordan/nicosys/yamato-cfwd-server/resources/js/template/orders'
+let g:netrw_dirhist_9='/Users/jordan/nicosys/yamato-cfwd-server/resources/js/template'
+let g:netrw_dirhist_8='/Users/jordan/nicosys/yamato-cfwd-server/resources/js/template/components'
+let g:netrw_dirhist_7='/Users/jordan/nicosys/yamato-cfwd-server/resources'
+let g:netrw_dirhist_6='/Users/jordan/nicosys/yamato-cfwd-server/resources/js'

@@ -1,0 +1,7 @@
+{
+    "suggest.triggerAfterInsertEnter":true,
+    "suggest.maxCompleteItemCount":10,
+    "coc.preferences.formatOnSaveFiletypes": ["javascript", "typescript", "typescriptreact", "json", "javascriptreact", "vue", "typescript.tsx"],
+    "eslint.filetypes": ["javascript", "typescript", "typescriptreact", "javascriptreact", "typescript.tsx"],
+    "coc.preferences.formatOnType": true
+}
